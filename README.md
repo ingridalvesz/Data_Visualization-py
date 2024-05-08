@@ -5,5 +5,3 @@
 
 ![imigração_america_sul](https://github.com/ingridalvesz/Data_Visualization-py/assets/88692119/d7f8641f-e764-49dc-aefc-e259a8058585) 
 
-[Uploading imigracao_america_sul.html…]()
-
